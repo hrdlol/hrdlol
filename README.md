@@ -4,5 +4,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hrdlol&theme=dark)](https://github.com/hrdlol/)
 
 Contact me:
- - Discord: hrd#0001
+ - Discord: hrd#8065
  - Email: hrdlol@pm.me
