@@ -2,7 +2,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hrdlol" alt="hrdlol" /> </p>
 
-- I'm currently learning **JavaScript & Lua**
+- I'm currently learning **Python**
 - How to contact me:
     - Discord: **hrd#0420**
     - Email: **hrdlol@pm.me**
