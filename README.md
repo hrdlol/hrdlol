@@ -1,6 +1,6 @@
 <h1 align="center">Hey! I'm hrd</h1>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=hrdlol" alt="hrdlol" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=h-r-d" alt="h-r-d" /> </p>
 
 - I'm currently learning **Python & Lua**
 - How to contact me:
