@@ -6,8 +6,8 @@
 - How to contact me:
     - Discord: **hrd#0420**
 
-[![hrd's github stats](https://github-readme-stats.vercel.app/api?username=h-r-d&count_private=true&theme=dark)](https://github.com/hrd69/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=h-r-d&theme=dark)](https://github.com/hrd69/)
+[![hrd's github stats](https://github-readme-stats.vercel.app/api?username=hrd69&count_private=true&theme=dark)](https://github.com/hrd69/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hrd69&theme=dark)](https://github.com/hrd69/)
 
 # Spotify
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=o6kythjz2qa53748iiyptdcry&cover_image=true&theme=natemoo-re)](https://spotify-github-profile.vercel.app/api/view?uid=o6kythjz2qa53748iiyptdcry&redirect=true)
