@@ -3,6 +3,8 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hrdrx" alt="hrdrx" /> </p>
 
 - I'm currently learning **JavaScript & Lua**
+- give money? yes.
+    - Monero: **46wbP1REHXi1xr5mDSMoafXyRL4CKywakB9xfjzUDzkmjTSa3ztqphKHPX9rkQSKJHiGbx4BtRFQ1Q4sqvGtsbBaGULpzK9**
 - How to contact me:
     - Discord: **hrd#0420**
 
